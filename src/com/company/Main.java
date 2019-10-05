@@ -11,7 +11,6 @@ public class Main {
         int countThreads = 4;    // threads
         String fileName = "Result.txt";
 
-
         ArrayList<double[]>arrayList=new ArrayList<>(countThreads);
         switch (countThreads)
         {
